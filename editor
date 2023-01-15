@@ -1,0 +1,26 @@
+[plugins]
+active-plugins=['docinfo', 'textsize', 'spell', 'sort', 'open-uri-context-menu', 'filebrowser', 'bracketcompletion', 'time', 'joinlines', 'modelines']
+
+[plugins/filebrowser/on-load]
+root='file:///'
+tree-view=true
+virtual-root='file:///home/chigoma333/Desktop/Uni'
+
+[preferences/editor]
+display-line-numbers=true
+display-right-margin=false
+scheme='cobalt'
+
+[preferences/ui]
+minimap-visible=false
+statusbar-visible=true
+
+[state/history-entry]
+history-search-for=['textview text', '#4a4a4a;', 'textview tex', 'benchma', 'Krae', 'de.matt', 'artifac', 'bench', 'host']
+
+[state/window]
+bottom-panel-size=140
+side-panel-active-page=827629879
+side-panel-size=200
+size=(1532, 1199)
+state=128
